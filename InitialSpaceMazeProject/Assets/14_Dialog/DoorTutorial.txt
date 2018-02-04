@@ -1,0 +1,4 @@
+Oh! You just killed a special MOB!
+Special MOBs are collered golden.
+They drop different kind of stuff.
+This one dropped a sugar crystal.

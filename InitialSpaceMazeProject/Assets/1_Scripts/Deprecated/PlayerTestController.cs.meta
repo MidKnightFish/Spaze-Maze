@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: 72107fe228cdffe4fbe1186e64a24a1e
+timeCreated: 1517105290
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {instanceID: 0}
+  - Door1: {instanceID: 0}
+  - Door2: {instanceID: 0}
+  - Key1: {instanceID: 0}
+  - Key2: {instanceID: 0}
+  - Key3: {instanceID: 0}
+  - Health4: {fileID: 1006885635994134, guid: bc2425802c3a1b94abfaebf1e9930d08, type: 2}
+  - Health3: {fileID: 1411695972153498, guid: 5946bcf003d1fb74e8cbd812787ab561, type: 2}
+  - Health2: {fileID: 1058633391759076, guid: 0907b8013a1cb4b47ba8e39bf881c92c, type: 2}
+  - Health1: {fileID: 1384767441241212, guid: 7b61b2d64c2ee424fad4b107363d17a0, type: 2}
+  - PickUpTimer4: {fileID: 1029902103855754, guid: 5d4f6fa28209340428e468fb58f695bb,
+      type: 2}
+  - PickUpTimer3: {fileID: 1716362821988924, guid: 2a516a1443175d3418a585eb633c05ae,
+      type: 2}
+  - PickUpTimer2: {fileID: 1316637458095494, guid: 8c8448f4155dfe24095a60b7b2f7b89f,
+      type: 2}
+  - PickUpTimer1: {fileID: 1033231903719154, guid: 4a49004216152fb44977666fe8e5da62,
+      type: 2}
+  - sfxKeyPickUp: {fileID: 82903039406522190, guid: 9b899475df5518f46a7de8e5193174ae,
+      type: 2}
+  - sfxDeath: {fileID: 82206179611909990, guid: 14e33947c53b3d540923db461f0c8d16,
+      type: 2}
+  - sfxHealthLoss: {fileID: 82390362874880030, guid: bf0aaa14c0556b34288a454df9e73083,
+      type: 2}
+  - sfxDoor: {fileID: 82121994907036106, guid: 28429898027a699489b565a36f8d5f97, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

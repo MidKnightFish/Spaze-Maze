@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="InitialSpaceMazeProject.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\1_Scripts\General\GameLoop.cs">
+    <Files>
+      <File FileName="Assets\1_Scripts\General\GameLoop.cs" Line="59" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 22cc67785b4b6704daf85e840db3cf54
+timeCreated: 1517098178
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sfxDeathMob: {fileID: 82885553810805390, guid: fb5f6534dc7ee664c81d1946bb465bc4,
+      type: 2}
+  - explosion: {fileID: 1140174535826934, guid: 2b66bd593011c1146b7830b4a4ddb60d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

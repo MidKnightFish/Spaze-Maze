@@ -1,0 +1,4 @@
+U just picked up a sugar crystal.
+Sugar crystals store energy and are used to open Doors.
+Normally you need the power of three crystals to open a Door.
+In this Tutorial case u only need one to proceed.

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9b624ee1fc17df44388c09b1aeeaf6f0
+timeCreated: 1517483965
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 32
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spaze Maze
+  fontNames:
+  - Spaze Maze
+  fallbackFontReferences:
+  - {instanceID: 0}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

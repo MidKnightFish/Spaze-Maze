@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: e53ef4c13b94db341ac7a214dab579ab
+timeCreated: 1512601203
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arny
+    100002: Center_1
+    100004: Fenster
+    100006: "H\xFClle_009"
+    100008: "H\xFClle_01"
+    100010: "H\xFClle_010"
+    100012: "H\xFClle_011"
+    100014: "H\xFClle_012"
+    100016: "H\xFClle_03"
+    100018: "H\xFClle_06"
+    100020: "H\xFClle_08"
+    100022: Kannone_001
+    100024: Kannone_002
+    100026: Kannone_003
+    100028: Kannone_004
+    100030: Kannone_006
+    100032: Luke_1
+    100034: //RootNode
+    400000: Arny
+    400002: Center_1
+    400004: Fenster
+    400006: "H\xFClle_009"
+    400008: "H\xFClle_01"
+    400010: "H\xFClle_010"
+    400012: "H\xFClle_011"
+    400014: "H\xFClle_012"
+    400016: "H\xFClle_03"
+    400018: "H\xFClle_06"
+    400020: "H\xFClle_08"
+    400022: Kannone_001
+    400024: Kannone_002
+    400026: Kannone_003
+    400028: Kannone_004
+    400030: Kannone_006
+    400032: Luke_1
+    400034: //RootNode
+    2300000: Arny
+    2300002: Center_1
+    2300004: Fenster
+    2300006: "H\xFClle_009"
+    2300008: "H\xFClle_01"
+    2300010: "H\xFClle_010"
+    2300012: "H\xFClle_011"
+    2300014: "H\xFClle_012"
+    2300016: "H\xFClle_03"
+    2300018: "H\xFClle_06"
+    2300020: "H\xFClle_08"
+    2300022: Kannone_001
+    2300024: Kannone_002
+    2300026: Kannone_003
+    2300028: Kannone_004
+    2300030: Kannone_006
+    2300032: Luke_1
+    3300000: Arny
+    3300002: Center_1
+    3300004: Fenster
+    3300006: "H\xFClle_009"
+    3300008: "H\xFClle_01"
+    3300010: "H\xFClle_010"
+    3300012: "H\xFClle_011"
+    3300014: "H\xFClle_012"
+    3300016: "H\xFClle_03"
+    3300018: "H\xFClle_06"
+    3300020: "H\xFClle_08"
+    3300022: Kannone_001
+    3300024: Kannone_002
+    3300026: Kannone_003
+    3300028: Kannone_004
+    3300030: Kannone_006
+    3300032: Luke_1
+    4300000: "H\xFClle_01"
+    4300002: Kannone_006
+    4300004: Kannone_004
+    4300006: Kannone_003
+    4300008: Kannone_002
+    4300010: Kannone_001
+    4300012: "H\xFClle_03"
+    4300014: "H\xFClle_06"
+    4300016: "H\xFClle_08"
+    4300018: Fenster
+    4300020: Center_1
+    4300022: Luke_1
+    4300024: Arny
+    4300026: "H\xFClle_009"
+    4300028: "H\xFClle_010"
+    4300030: "H\xFClle_011"
+    4300032: "H\xFClle_012"
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Aussenh\xFClle"
+    second: {fileID: 2100000, guid: a0f9b036761acbb45853b0978baaa61c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Aussenh\xFClle_1"
+    second: {fileID: 2100000, guid: a0f9b036761acbb45853b0978baaa61c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass 4
+    second: {fileID: 2100000, guid: ea3358800e939e3408d612b3ee2d672a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass 5
+    second: {fileID: 2100000, guid: 9fd5ca8abb6129f479945dfec2d60a64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #19'
+    second: {fileID: 2100000, guid: b82966a3fbc545f49839877b05af2609, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
