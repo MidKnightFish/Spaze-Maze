@@ -291,9 +291,10 @@
     <None Include="Assets\14_Dialog\FirstContact.txt" />
     <None Include="Assets\14_Dialog\Neues Textdokument.txt" />
     <None Include="Assets\14_Dialog\SugarTutorial.txt" />
-    <None Include="Assets\1_Scripts\ToonShader.shader" />
-    <None Include="Assets\TSF\Shaders\TSF.shader" />
-    <None Include="Assets\TSF\Shaders\TSFOutline.shader" />
+    <None Include="Assets\1_Scripts\Shaders\TSF.shader" />
+    <None Include="Assets\1_Scripts\Shaders\TSFOutline.shader" />
+    <None Include="Assets\1_Scripts\Shaders\TerrainToonShader.shader" />
+    <None Include="Assets\1_Scripts\Shaders\ToonShader.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

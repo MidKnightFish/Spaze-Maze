@@ -21,9 +21,10 @@ GameObject:
   - component: {fileID: 4696359972434398}
   - component: {fileID: 33619226559958916}
   - component: {fileID: 23874059786522476}
-  m_Layer: 0
+  - component: {fileID: 64725806557054148}
+  m_Layer: 11
   m_Name: Pipeshort
-  m_TagString: Untagged
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -81,4 +82,18 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1879244771016148}
+  m_Mesh: {fileID: 4300000, guid: f0d0906f35bc42c418589307d926bb55, type: 3}
+--- !u!64 &64725806557054148
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1879244771016148}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Convex: 0
+  m_InflateMesh: 0
+  m_SkinWidth: 0.05
   m_Mesh: {fileID: 4300000, guid: f0d0906f35bc42c418589307d926bb55, type: 3}

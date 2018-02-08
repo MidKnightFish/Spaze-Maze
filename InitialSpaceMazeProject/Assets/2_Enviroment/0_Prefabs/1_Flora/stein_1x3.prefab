@@ -21,9 +21,10 @@ GameObject:
   - component: {fileID: 4526332732869810}
   - component: {fileID: 33871673470327500}
   - component: {fileID: 23587404545309178}
-  m_Layer: 0
-  m_Name: stein_1x3
-  m_TagString: Untagged
+  - component: {fileID: 64395387445868856}
+  m_Layer: 11
+  m_Name: Stein_1x3
+  m_TagString: Wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -81,4 +82,18 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1141246324005328}
-  m_Mesh: {fileID: 4300000, guid: 6951a4614f8d6114896e9f6d4e9819dd, type: 3}
+  m_Mesh: {fileID: 4300000, guid: 3d5d7c1feb5890549a745f90f1783c1a, type: 3}
+--- !u!64 &64395387445868856
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1141246324005328}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Convex: 1
+  m_InflateMesh: 1
+  m_SkinWidth: 0.01
+  m_Mesh: {fileID: 4300000, guid: 3d5d7c1feb5890549a745f90f1783c1a, type: 3}
